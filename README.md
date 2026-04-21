@@ -10,7 +10,6 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
 **Currently:**
 - 🔨 &nbsp;Building tools that make automation engineers' lives easier
 - 🌱 &nbsp;Learning Rust — systems programming is the next frontier
-- 🧗 &nbsp;Climbing mountains when I'm not climbing bugs
 
 ---
 
