@@ -34,15 +34,13 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
     <td>
       <img src="https://img.shields.io/badge/-Structured_Text-FF9E64?style=flat-square&labelColor=1a1b27"/>
       <img src="https://img.shields.io/badge/-Function_Block_Diagram-FF9E64?style=flat-square&labelColor=1a1b27"/>
-      <img src="https://img.shields.io/badge/-Ladder_Logic-FF9E64?style=flat-square&labelColor=1a1b27"/>
-      <img src="https://img.shields.io/badge/-SFC-FF9E64?style=flat-square&labelColor=1a1b27"/>
     </td>
   </tr>
   <tr>
     <td valign="top"><b>Platforms &amp; IDEs</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Siemens_TIA_Portal-009999?style=flat-square&labelColor=1a1b27&logo=siemens&logoColor=white"/>
       <img src="https://img.shields.io/badge/-CODESYS-E4002B?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/-Beremiz_PLC-CE2929?style=flat-square&labelColor=1a1b27"/>
       <img src="https://img.shields.io/badge/-Weintek_EasyBuilder-F5A623?style=flat-square&labelColor=1a1b27"/>
     </td>
   </tr>
@@ -51,14 +49,14 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
     <td>
       <img src="https://img.shields.io/badge/-Modbus_TCP%2FRTU-7AA2F7?style=flat-square&labelColor=1a1b27"/>
       <img src="https://img.shields.io/badge/-OPC_UA-7AA2F7?style=flat-square&labelColor=1a1b27"/>
-      <img src="https://img.shields.io/badge/-Profinet-7AA2F7?style=flat-square&labelColor=1a1b27"/>
     </td>
   </tr>
   <tr>
     <td valign="top"><b>HMI / SCADA</b></td>
     <td>
+      <img src="https://img.shields.io/badge/-MasterSCADA_4D-BB9AF7?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/-Alpha_Platform-BB9AF7?style=flat-square&labelColor=1a1b27"/>
       <img src="https://img.shields.io/badge/-Weintek_HMI-BB9AF7?style=flat-square&labelColor=1a1b27"/>
-      <img src="https://img.shields.io/badge/-WinCC-BB9AF7?style=flat-square&labelColor=1a1b27"/>
     </td>
   </tr>
 </table>
@@ -97,6 +95,7 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&labelColor=1a1b27&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=1a1b27&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=1a1b27&logo=linux&logoColor=FCC624"/>
+      <img src="https://img.shields.io/badge/-Astra_Linux-EF4B4B?style=flat-square&labelColor=1a1b27"/>
     </td>
   </tr>
   <tr>
