@@ -136,9 +136,6 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
 
 <div align="center">
 
-<a href="mailto:bilionerscrypto@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&labelColor=1a1b27&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://www.codewars.com/users/yurjo7">
   <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=flat-square&labelColor=1a1b27&logo=codewars&logoColor=white"/>
 </a>
