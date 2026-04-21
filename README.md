@@ -99,8 +99,7 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yurik2718&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7&text_color=a9b1d6&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurik2718&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&text_color=a9b1d6&langs_count=8"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurik2718&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ff9e64&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%"/>
 
   <br/><br/>
 
