@@ -110,14 +110,6 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
 
 ---
 
-## 🐍 &nbsp;Contribution Graph
-
-<p align="center">
-  <img width="1000" src="assets/github-snake.svg" alt="snake contribution graph"/>
-</p>
-
----
-
 ## 📫 &nbsp;Connect
 
 <div align="center">
