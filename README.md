@@ -2,8 +2,7 @@
 
 Hi, I'm **Andrew** — an automation engineer who builds software for the real world.
 
-By day, I design **SCADA systems** and program **industrial PLCs** that keep production lines running.
-By night, I craft full-stack web apps with **Ruby on Rails**, **Inertia.js**, **React** and **TypeScript**.
+I'm building [**industrialprofi.com**](https://industrialprofi.com) — a platform designed to make a real impact on industrial automation and the professions built around it.
 
 These days I'm deep into **Rust** — determined to ship my first real-world project with it.
 
