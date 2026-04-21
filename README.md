@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,2&height=200&section=header&text=Andrew&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Automation%20%E2%80%A2%20Ruby%20on%20Rails%20%E2%80%A2%20Rust&descSize=16&descAlignY=62" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=SCADA+%2F+PLC+engineer+who+fell+for+the+web;Bridging+the+shop+floor+and+the+browser;From+ladder+logic+to+Ruby+on+Rails" alt="Typing SVG"/>
-</a>
-
-</div>
-
-<br/>
-
 ## About
 
 Hi, I'm **Andrew** — an automation engineer who builds software for the real world.
