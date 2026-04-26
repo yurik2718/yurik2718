@@ -59,7 +59,7 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
     <td>
       <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&labelColor=1a1b27&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&labelColor=1a1b27&logo=rubyonrails&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Sidekiq-B1003E?style=flat-square&labelColor=1a1b27&logo=sidekiq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Solid_Queue-CC0000?style=flat-square&labelColor=1a1b27"/>
     </td>
   </tr>
   <tr>
@@ -78,7 +78,6 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
     <td>
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&labelColor=1a1b27&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&labelColor=1a1b27&logo=sqlite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&labelColor=1a1b27&logo=redis&logoColor=white"/>
     </td>
   </tr>
   <tr>
