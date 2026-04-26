@@ -59,12 +59,14 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
     <td>
       <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&labelColor=1a1b27&logo=ruby&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&labelColor=1a1b27&logo=rubyonrails&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Sidekiq-B1003E?style=flat-square&labelColor=1a1b27&logo=sidekiq&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td valign="top"><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Hotwire-CC0000?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/-Stimulus-77E8B9?style=flat-square&labelColor=1a1b27&logo=stimulus&logoColor=white"/>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&labelColor=1a1b27&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=1a1b27&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Inertia.js-9553E9?style=flat-square&labelColor=1a1b27"/>
@@ -83,9 +85,17 @@ These days I'm deep into **Rust** — determined to ship my first real-world pro
     <td valign="top"><b>DevOps &amp; Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&labelColor=1a1b27&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Kamal-2D72D9?style=flat-square&labelColor=1a1b27"/>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=1a1b27&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=1a1b27&logo=linux&logoColor=FCC624"/>
       <img src="https://img.shields.io/badge/-Astra_Linux-EF4B4B?style=flat-square&labelColor=1a1b27"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Testing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-RSpec-CC342D?style=flat-square&labelColor=1a1b27"/>
+      <img src="https://img.shields.io/badge/-Minitest-CC342D?style=flat-square&labelColor=1a1b27"/>
     </td>
   </tr>
   <tr>
